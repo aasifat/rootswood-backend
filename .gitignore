@@ -1,0 +1,5 @@
+rootswood
+rootswood.db
+*.db
+.env
+static/
