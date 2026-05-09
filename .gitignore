@@ -3,3 +3,4 @@ rootswood.db
 *.db
 .env
 static/
+.env
